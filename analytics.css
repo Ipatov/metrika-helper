@@ -1,0 +1,33 @@
+.red-test{
+	border: 1px solid red;
+}
+.green-test{
+	border: 1px solid green;
+}
+.analytics-main-panel{
+	width: 300px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightgray;
+	position: fixed;
+    top: 0px;
+    right: 0px;
+	opacity: 0.8;
+}
+.analytics-main-panel .analytics-title{
+	margin-top: 10px;
+    display: block;
+    font-weight: bold;
+}
+.analytics-main-container{
+	text-align: left;
+}
+.analytics-popup{
+	width: 180px;
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: lightgrey;
+	position: absolute;
+    opacity: 0.8;
+}
